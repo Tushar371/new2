@@ -5,7 +5,7 @@ import java.util.*;
 public class Day1_1 
 {
 
-	public static void main(String[] args)
+	public static void main(String[] )
 	{
 		Scanner sc= new Scanner(System.in);
 		int num1,num2;
